@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title> Blood Donation Form</title>
 </head>
+
 <h1>Blood Donation Camp</h1>
 <body bgcolor="FBB917" style="margin-left: 600px; ">
     <div>
